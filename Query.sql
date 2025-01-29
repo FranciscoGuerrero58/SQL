@@ -1,1 +1,4 @@
-insert into info(name, surname, age, init_date, email) Values('Iker','Guerrero',5,'2020-04-01','ikerguerrero@gmail.com');
+
+CREATE DATABASE Users;
+CREATE TABLE info;
+insert into info(name, surname, age, init_date, email) Values('Francisco','Guerrero',26,'2020-04-01','fguerrero@gmail.com');
