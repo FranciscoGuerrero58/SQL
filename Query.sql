@@ -1,0 +1,1 @@
+insert into info(name, surname, age, init_date, email) Values('Iker','Guerrero',5,'2020-04-01','ikerguerrero@gmail.com');
